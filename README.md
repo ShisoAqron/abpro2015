@@ -7,6 +7,10 @@
 
 ## 必要なもの
 - vvvvが使える環境
+  - vvvv http://vvvv.org/downloads
+  - 32bitで作ったけど64でもたぶん平気 でも他の用途的には32のほうがイイヨ
+  - チュートリアル https://www.youtube.com/watch?v=ZNqgYJsz_W8
+ 
 - yhyjpさんが公開している4vパッチ/プラグインのうちTobii eyeXのプラグインor自作したプラグイン
   - チュートリアル全体 https://github.com/yhyjp/vvvv_tutorial
   - eyeXプラグイン https://github.com/yhyjp/vvvv_tutorial/tree/master/plugins/DevicesTobiiEyeX
