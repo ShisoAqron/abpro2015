@@ -6,6 +6,11 @@
 デスクトップ上で目の体操（イライラ棒）をしよう！
 
 ## 必要なもの
+- vvvvが使える環境
+- yhyjpさんが公開している4vパッチ/プラグインのうちTobii eyeXのプラグインor自作したプラグイン
+  - チュートリアル全体 https://github.com/yhyjp/vvvv_tutorial
+  - eyeXプラグイン https://github.com/yhyjp/vvvv_tutorial/tree/master/plugins/DevicesTobiiEyeX
+
 - Tobii eyeX
 http://developer.tobii.com/
 
